@@ -36,6 +36,7 @@ module.exports = {
     "no-unused-vars": "warn",
     "no-console": "warn",
     "import/prefer-default-export": "warn",
+    "react/require-default-props": "off",
   },
   settings: {
     "import/resolver": {
